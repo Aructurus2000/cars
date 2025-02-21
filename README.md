@@ -1,1 +1,1 @@
-Переход на страницу проекта: https://aructurus2000.github.io/cars/#cars
+Переход на страницу проекта: https://aructurus2000.github.io/cars
